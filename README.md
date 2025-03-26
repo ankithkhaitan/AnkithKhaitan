@@ -19,9 +19,15 @@
 
 ---
 
-| Languages | Frameworks | Tools | Cloud | Databases | Workspace |
-|:---------:|:------------------:|:---:|:---:|:---------:|:---------:|
-| <img src="https://skillicons.dev/icons?i=c,javascript,typescript,python,go&perline=3" alt="languages" height="90"/> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,nextjs,vue&perline=4" alt="web" height="90"/> | <img src="https://skillicons.dev/icons?i=postman,git,linux&perline=3" alt="tools" height="90"/> |<img src="https://skillicons.dev/icons?i=firebase,vercel&perline=3" alt="cloud" height="90"/>| <img src="https://skillicons.dev/icons?i=mongodb&perline=2" alt="databases" height="90"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,vscode&perline=2" alt="workspace" height="90"/> |
+| Languages | Frameworks | Backend Development | AI/ML |
+|:---------:|:------------------:|:------------------:|:------------------:|
+| <img src="https://skillicons.dev/icons?i=c,javascript,typescript,python,go&perline=3" alt="languages" height="90"/> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,nextjs&perline=4" alt="web" height="90"/> | <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="backend" height="90"/> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas&perline=4" alt="aiml" height="90"/> |
+
+---
+
+| Tools | Cloud | Databases | Workspace |
+|:---:|:---:|:---------:|:---------:|
+| <img src="https://skillicons.dev/icons?i=postman,git,linux&perline=3" alt="tools" height="90"/> |<img src="https://skillicons.dev/icons?i=firebase,vercel&perline=2" alt="cloud" height="90"/>| <img src="https://skillicons.dev/icons?i=mongodb&perline=1" alt="databases" height="90"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,vscode&perline=2" alt="workspace" height="90"/> |
 
 ---
 
