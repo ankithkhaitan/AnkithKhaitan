@@ -1,7 +1,7 @@
-## Hi 👋, I'm Ankith Khaitan  
-### A passionate frontend developer from India  
+<h1 align="center">Hello there, I'm Ankith Khaitan!</h1>
+<img align="right" img width="25%" alt="Ankith" src="https://cloud.anga.pro/i/i8vzklenxe3s/me.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankithkhaitan&label=Profile%20views&color=0e75b6&style=flat" alt="ankithkhaitan" /> </p>
+### About me
 
 - 🔧 I’m currently working on **My new Portfolio**  
 - 🌱 I’m currently learning **Cybersecurity**  
@@ -9,60 +9,26 @@
 - 📧 How to reach me **ankithkhaitan11@gmail.com**  
 - ⚡ Fun fact **I am funny to make you Laugh**  
 
----
-
-## **Connect with me:**  
-<a href="https://linkedin.com/in/ankithkhaitan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankithkhaitan" height="30" width="40" /></a>  
-
----
-
-## **Languages and Tools** 🛠️  
-
-### **Programming Languages**  
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-</p>
-
-### **Frontend Development**  
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
-
-### **Backend & Database**  
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</p>
-
-### **Machine Learning & AI**  
-<p>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-</p>
-
-### **Development Tools & Version Control**  
-<p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+### Feel free to HMU:
+<p align="left">
+    <a href="https://www.linkedin.com/in/ankithkhaitan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://discord.com/users/477680545271250944"><img src="https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white"></a>
+    <a href="mailto:ankithkhaitan11@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+    <a href="https://instagram.com/ankithkhaitan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+    <a href="https://leetcode.com/ankithkhaitan"><img src="https://img.shields.io/badge/Leetcode-332244?style=flat-square&logo=leetcode&logoColor=white"></a>
+    <a href="https://github.com/ankithkhaitan"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## **GitHub Stats**  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankithkhaitan&show_icons=true&locale=en&layout=compact" alt="ankithkhaitan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankithkhaitan&show_icons=true&locale=en" alt="ankithkhaitan" /></p>
+| Languages | Frameworks | Tools | Cloud | Databases | Workspace |
+|:---------:|:------------------:|:---:|:---:|:---------:|:---------:|
+| <img src="https://skillicons.dev/icons?i=c,javascript,typescript,python,go&perline=3" alt="languages" height="90"/> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,nextjs,vue&perline=4" alt="web" height="90"/> | <img src="https://skillicons.dev/icons?i=postman,git,bash,linux,docker,kali&perline=3" alt="tools" height="90"/> |<img src="https://skillicons.dev/icons?i=firebase,vercel,heroku,aws,azure,gcp&perline=3" alt="cloud" height="90"/>| <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&perline=2" alt="databases" height="90"/> | <img src="https://skillicons.dev/icons?i=debian,raspberrypi,vscode,neovim&perline=2" alt="workspace" height="90"/> |
+
+---
+
+| Stats | Streak | Languages |
+|:------------:|:-----:|:-------------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=ankithkhaitan&show_icons=true&locale=en&theme=tokyonight&hide=stars&show=prs_merged_percentage" alt="ankithkhaitan" width="100%"/> | <img src="https://github-readme-streak-stats-w3ej.vercel.app/?user=ankithkhaitan&theme=tokyonight&border_radius=10&fire=DD2727" alt="ankithkhaitan" width="100%"/>  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithkhaitan&layout=compact&theme=tokyonight" alt="ankithkhaitan" width="100%"/> |
+
+<img src="https://komarev.com/ghpvc/?username=ankithkhaitan&label=Profile%20views&color=0e75b6&style=flat" alt="ankithkhaitan" />
