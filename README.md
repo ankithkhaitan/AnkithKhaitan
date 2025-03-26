@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Ankith Khaitan! 👋</h1>
-<img align="right" img width="25%" alt="Ankith" src="https://cloud.anga.pro/i/i8vzklenxe3s/me.png">
+<img align="right" img width="25%" alt="Ankith" src="https://i.anga.pro/i/fop8qa3kghti/Screenshot_2025-03-26_132403-removebg-preview.png">
 
 ### About Me
 
