@@ -12,10 +12,8 @@
 ### Feel free to HMU:
 <p align="left">
     <a href="https://www.linkedin.com/in/ankithkhaitan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://discord.com/users/477680545271250944"><img src="https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white"></a>
     <a href="mailto:ankithkhaitan11@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-    <a href="https://instagram.com/ankithkhaitan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-    <a href="https://leetcode.com/ankithkhaitan"><img src="https://img.shields.io/badge/Leetcode-332244?style=flat-square&logo=leetcode&logoColor=white"></a>
+    <a href="https://instagram.com/ankith__khaitan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
     <a href="https://github.com/ankithkhaitan"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
@@ -23,7 +21,7 @@
 
 | Languages | Frameworks | Tools | Cloud | Databases | Workspace |
 |:---------:|:------------------:|:---:|:---:|:---------:|:---------:|
-| <img src="https://skillicons.dev/icons?i=c,javascript,typescript,python,go&perline=3" alt="languages" height="90"/> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,nextjs,vue&perline=4" alt="web" height="90"/> | <img src="https://skillicons.dev/icons?i=postman,git,bash,linux,docker,kali&perline=3" alt="tools" height="90"/> |<img src="https://skillicons.dev/icons?i=firebase,vercel,heroku,aws,azure,gcp&perline=3" alt="cloud" height="90"/>| <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&perline=2" alt="databases" height="90"/> | <img src="https://skillicons.dev/icons?i=debian,raspberrypi,vscode,neovim&perline=2" alt="workspace" height="90"/> |
+| <img src="https://skillicons.dev/icons?i=c,javascript,typescript,python,go&perline=3" alt="languages" height="90"/> | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,nextjs,vue&perline=4" alt="web" height="90"/> | <img src="https://skillicons.dev/icons?i=postman,git,linux&perline=3" alt="tools" height="90"/> |<img src="https://skillicons.dev/icons?i=firebase,vercel&perline=3" alt="cloud" height="90"/>| <img src="https://skillicons.dev/icons?i=mongodb&perline=2" alt="databases" height="90"/> | <img src="https://skillicons.dev/icons?i=raspberrypi,vscode&perline=2" alt="workspace" height="90"/> |
 
 ---
 
